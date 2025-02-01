@@ -24,7 +24,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/AuroraTeam/Launcher.git"
+        "url": "git+https://github.com/kahendrik/launcher.git"
     },
     "author": "AuroraTeam",
     "contributors": [
@@ -32,7 +32,7 @@
     ],
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/AuroraTeam/Launcher/issues"
+        "url": "https://github.com/kahendrik/launcher/issues"
     },
     "homepage": "https://github.com/AuroraTeam/Launcher#readme",
     "devDependencies": {
